@@ -1,12 +1,11 @@
-openai
-langchain
-langchain-core
-langchain-openai
-langchain-community
-streamlit
-python-dotenv
-PyPDF2
-
-
+langchain-core>=0.2.2,<0.3.0
+langchain-openai>=0.1.8
+langchain-community>=0.2.0
+streamlit>=1.32.0
+python-dotenv>=1.0.1
+PyPDF2>=3.0.1
+pandas>=2.2.0
+openai>=1.6.1
 
 -e .
+
