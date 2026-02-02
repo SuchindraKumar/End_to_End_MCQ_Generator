@@ -197,8 +197,9 @@ Data Scientist | ML | GenAI
 
 ## 🖼 Screenshots
 
-![MCQ Creator Screenshot](assets/screenshot 1.png)
-(assets/screenshot 2.png)
+![MCQ Creator Screenshot]([assets/screenshot 1.png](https://github.com/SuchindraKumar/End_to_End_MCQ_Generator/blob/main/assets/screenshot%201.png))
+([assets/screenshot 2.png](https://github.com/SuchindraKumar/End_to_End_MCQ_Generator/blob/main/assets/screenshot%202.png))
 
 
 ---
+
