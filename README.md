@@ -197,13 +197,8 @@ Data Scientist | ML | GenAI
 
 ## 🖼 Screenshots
 
-> ℹ️ The following screenshots show the **same page**, captured in two parts for readability
+![MCQ Creator Screenshot](assets/screenshot 1.png)
+(assets/screenshot 2.png)
 
-### MCQ Creator – Full Page View (Part 1)
-![MCQ Creator Full Page Part 1](assets/screenshot-part-1.png)
 
-### MCQ Creator – Full Page View (Part 2)
-![MCQ Creator Full Page Part 2](assets/screenshot-part-2.png)
-
-.
-
+---
