@@ -201,10 +201,10 @@ Data Scientist | ML | GenAI
 
 ## 🖼 Screenshots
 
-![MCQ Creator Full Page Part 1](assets/screenshot-part-1.png)
+![MCQ Creator Full Page Part 1](assets/screenshot 1.png)
 
-![MCQ Creator Full Page Part 2](assets/screenshot-part-2.png)
-
+![MCQ Creator Full Page Part 2](assets/screenshot 2.png
 
 
 ---
+
